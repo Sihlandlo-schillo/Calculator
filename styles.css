@@ -1,0 +1,33 @@
+.container{
+    border: solid rgb(231, 227, 227);
+    margin: 0 39%;
+    padding: 8px;
+    border-radius: 12px;
+    background-color: lightgrey;
+}
+
+.input-sec .textSpace{
+    height: 80px;
+    width: 305px;
+    border-radius: 12px;
+    background-color: rgb(231, 229, 229);
+
+}
+.bar{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+table tr, td{
+    padding: 22px 28px;
+    border: rgb(40, 39, 39);;
+    border-radius: 10px;
+    background-color: rgb(231, 229, 229);
+}
+td:hover {
+    background-color: rgb(238, 234, 234);
+    
+}
+body{
+    background-color: aquamarine;
+}
